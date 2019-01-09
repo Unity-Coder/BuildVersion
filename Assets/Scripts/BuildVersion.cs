@@ -3,7 +3,7 @@ using UnityEngine.UI;
 
 namespace BroodStudios
 {
-	public class BuildVersion : MonoBehaviour
+	public class BuildVersion : MonoBehaviour 
 	{
 		[SerializeField, HideInInspector]
 		private Text _textBuilVersion = null;
